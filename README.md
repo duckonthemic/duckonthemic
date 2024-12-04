@@ -14,11 +14,5 @@ Im UITer
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=duckonthemic&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=duckonthemic&icon=0&color=10)](https://visitcount.itsvg.in)
