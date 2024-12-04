@@ -14,5 +14,13 @@ Im UITer
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=duckonthemic&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=duckonthemic&icon=0&color=10)](https://visitcount.itsvg.in)
