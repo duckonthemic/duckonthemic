@@ -15,4 +15,4 @@ Im UITer
 ![](https://github-trophies.vercel.app/?username=duckonthemic&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=duckonthemic&icon=0&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=duckonthemic&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)
