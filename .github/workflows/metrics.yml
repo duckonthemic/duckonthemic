@@ -17,7 +17,7 @@ jobs:
       - name: Profile overview
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           user: duckonthemic
           filename: github-metrics.svg
           template: classic
@@ -35,7 +35,7 @@ jobs:
       - name: Isometric commit calendar
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           user: duckonthemic
           filename: metrics.plugin.isocalendar.svg
           base: ""
@@ -45,7 +45,7 @@ jobs:
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           user: duckonthemic
           filename: metrics.plugin.achievements.svg
           base: ""
