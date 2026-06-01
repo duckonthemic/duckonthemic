@@ -10,7 +10,7 @@
       I enjoy.
     </td>
     <td align="center" width="18%">
-      <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/main/assets/mascot.jpg" alt="Profile mascot" width="118">
+      <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/main/assets/mascot.png" alt="Profile mascot" width="118">
     </td>
   </tr>
 </table>
