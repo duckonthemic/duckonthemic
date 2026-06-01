@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150" role="img" aria-label="Build loop animation">
+  <style>
+    .panel { fill: #f6f8fa; stroke: #d0d7de; }
+    .title { fill: #24292f; font: 700 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .text { fill: #57606a; font: 500 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .node { fill: #0969da; }
+    .node-soft { fill: #ddf4ff; stroke: #0969da; }
+    .path { fill: none; stroke: #0969da; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 8 10; animation: dash 9s linear infinite; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: center; }
+    .pulse:nth-of-type(2) { animation-delay: .4s; }
+    .pulse:nth-of-type(3) { animation-delay: .8s; }
+    .pulse:nth-of-type(4) { animation-delay: 1.2s; }
+    @keyframes dash { to { stroke-dashoffset: -180; } }
+    @keyframes pulse { 0%, 100% { opacity: .78; transform: scale(1); } 50% { opacity: 1; transform: scale(1.08); } }
+    @media (prefers-color-scheme: dark) {
+      .panel { fill: #0d1117; stroke: #30363d; }
+      .title { fill: #f0f6fc; }
+      .text { fill: #8b949e; }
+      .node { fill: #58a6ff; }
+      .node-soft { fill: #102a43; stroke: #58a6ff; }
+      .path { stroke: #58a6ff; }
+    }
+  </style>
+
+  <rect class="panel" x="1" y="1" width="758" height="148" rx="14"/>
+  <text class="title" x="32" y="38">Build Loop</text>
+  <text class="text" x="32" y="60">Small experiments, practical systems, and steady iteration.</text>
+
+  <path class="path" d="M108 104 C190 54 264 54 342 104 S494 154 572 104 S668 56 704 92"/>
+
+  <g class="pulse" transform="translate(112 104)">
+    <circle class="node-soft" cx="0" cy="0" r="18"/>
+    <circle class="node" cx="0" cy="0" r="5"/>
+    <text class="text" x="-30" y="38">Idea</text>
+  </g>
+  <g class="pulse" transform="translate(316 92)">
+    <circle class="node-soft" cx="0" cy="0" r="18"/>
+    <circle class="node" cx="0" cy="0" r="5"/>
+    <text class="text" x="-42" y="40">Prototype</text>
+  </g>
+  <g class="pulse" transform="translate(512 118)">
+    <circle class="node-soft" cx="0" cy="0" r="18"/>
+    <circle class="node" cx="0" cy="0" r="5"/>
+    <text class="text" x="-24" y="38">Ship</text>
+  </g>
+  <g class="pulse" transform="translate(690 92)">
+    <circle class="node-soft" cx="0" cy="0" r="18"/>
+    <circle class="node" cx="0" cy="0" r="5"/>
+    <text class="text" x="-26" y="40">Learn</text>
+  </g>
+</svg>
