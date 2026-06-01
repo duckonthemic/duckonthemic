@@ -43,7 +43,7 @@ jobs:
           plugin_isocalendar_duration: full-year
 
       - name: Achievements
-        uses: lowlighter/metrics@latest
+        uses: dkhokhlov/metrics@ca58c6bb513e4a04afca0ad2e46b943b543f74cc
         with:
           token: ${{ github.token }}
           user: duckonthemic
