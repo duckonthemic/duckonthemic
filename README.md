@@ -62,7 +62,7 @@ I enjoy building practical products with clean interfaces, useful automation, an
 ### Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/main/metrics.plugin.achievements.svg" alt="GitHub achievements" width="720">
+  <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/main/profile-achievements.svg" alt="Profile achievements" width="720">
 </p>
 
 ---
