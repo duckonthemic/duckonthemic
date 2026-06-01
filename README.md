@@ -50,19 +50,19 @@ I enjoy building practical products with clean interfaces, useful automation, an
 ### GitHub Overview
 
 <p align="center">
-  <img src="/github-metrics.svg" alt="GitHub profile metrics" width="720">
+  <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/main/github-metrics.svg" alt="GitHub profile metrics" width="720">
 </p>
 
 ### Contribution Rhythm
 
 <p align="center">
-  <img src="/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="720">
+  <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/main/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="720">
 </p>
 
 ### Achievements
 
 <p align="center">
-  <img src="/metrics.plugin.achievements.svg" alt="GitHub achievements" width="720">
+  <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/main/metrics.plugin.achievements.svg" alt="GitHub achievements" width="720">
 </p>
 
 ---
