@@ -5,9 +5,9 @@
     <td align="center" width="82%">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=720&height=72&lines=Long+Hoang+Bao;UIT+Student+%7C+Software+Builder;Full-stack+%2B+AI+Explorer" alt="Typing introduction">
       <br>
-      <strong>UIT student | Software builder | Web and AI explorer</strong>
+      <strong>UITer | Data chilling</strong>
       <br><br>
-      I enjoy building practical products with clean interfaces, useful automation, and reliable data flows.
+      I enjoy.
     </td>
     <td align="center" width="18%">
       <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/main/assets/mascot.jpg" alt="Profile mascot" width="118">
