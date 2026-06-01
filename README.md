@@ -78,9 +78,28 @@
 
 ### Achievements
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/main/profile-achievements.svg" alt="Profile achievements" width="720">
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Developer</strong><br>
+      <sub>19 public repositories, 17 original projects</sub>
+    </td>
+    <td width="50%">
+      <strong>Builder</strong><br>
+      <sub>JavaScript, Python, SQL, and modern web tooling</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Automator</strong><br>
+      <sub>GitHub Actions keeps this profile fresh</sub>
+    </td>
+    <td width="50%">
+      <strong>Explorer</strong><br>
+      <sub>Full-stack products, AI experiments, clean UX</sub>
+    </td>
+  </tr>
+</table>
 
 ### Contribution Flow
 
