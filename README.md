@@ -1,114 +1,71 @@
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="82%">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=720&height=72&lines=Long+Hoang+Bao;UIT+Student+%7C+Software+Builder;Full-stack+%2B+AI+Explorer" alt="Typing introduction">
-      <br>
-      <strong>UITer | Data chilling</strong>
-      <br><br>
-      I enjoy.
-    </td>
-    <td align="center" width="18%">
-      <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/main/assets/mascot.png" alt="Profile mascot" width="118">
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3200&pause=1000&color=3B82F6&center=true&vCenter=true&width=560&lines=Long+Hoang+Bao;Data" alt="Long Hoang Bao — Data">
 
-<a href="https://linkedin.com/in/long-hoang-bao-100b7b328">LinkedIn</a>
-|
-<a href="https://twitter.com/_hbl_X_">X</a>
-|
-<a href="https://facebook.com/doan.sss.xem">Facebook</a>
+### Data Enthusiast
+
+A student at the University of Information Technology (UIT), interested in building useful software, exploring data and machine learning, and improving how applications work end to end.
+
+[LinkedIn](https://linkedin.com/in/long-hoang-bao-100b7b328) · [X](https://twitter.com/_hbl_X_) · [Facebook](https://facebook.com/doan.sss.xem)
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/main/profile-motion.svg" alt="Build loop animation" width="760">
-</p>
+## About
 
-### About
+- Studying at the **University of Information Technology (UIT)**.
+- Building with **Python, JavaScript, SQL, and modern web technologies**.
+- Exploring **full-stack development, data engineering, machine learning, and automation**.
+- I value practical projects, clear interfaces, and steady improvement.
 
-- Studying at University of Information Technology.
-- Building with JavaScript, Python, databases, and modern web tooling.
-- Interested in full-stack products, machine learning experiments, and developer automation.
+## Selected projects
 
-### Toolkit
+| Project | What it explores | Stack |
+| --- | --- | --- |
+| [UIT Docs Agent](https://github.com/Jajajou/UIT_DOCS_AGENT) | A retrieval augmented AI agent for searching and answering questions about UIT documents, with document crawling, indexing, and temporal-aware retrieval. | Python · LangGraph · LightRAG · FastAPI · Docker |
+| [Market Data Reliability Lab](https://github.com/duckonthemic/Real-Time-Financial-Market-Data-Pipeline) | A reproducible streaming data pipeline that demonstrates recovery and data correctness across Kafka, Spark Structured Streaming, and Cassandra. | Python · Kafka · Spark · Cassandra · Grafana |
+| [LapLap Analytics](https://github.com/duckonthemic/laplaptech_data) | A clickstream and laptop analytics warehouse, using dbt models to power a local dashboard. | Python · ClickHouse · dbt · Streamlit |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,nodejs,nextjs,tailwind,mysql,mongodb,tensorflow,pytorch,git,github,notion&theme=dark&perline=12" alt="Skill icons">
-</p>
+> These are selected projects from my public repositories. See [all repositories](https://github.com/duckonthemic?tab=repositories) for more.
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>Python | JavaScript | SQL | CSS</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>Next.js | Tailwind CSS | jQuery</td>
-  </tr>
-  <tr>
-    <td><strong>Backend & Data</strong></td>
-    <td>Node.js | MySQL | MongoDB | Oracle | Apache</td>
-  </tr>
-  <tr>
-    <td><strong>AI / ML</strong></td>
-    <td>PyTorch | TensorFlow | Keras</td>
-  </tr>
-  <tr>
-    <td><strong>Workflow</strong></td>
-    <td>GitHub | Notion | automation-first habits</td>
-  </tr>
-</table>
+## Toolkit
 
-### GitHub Overview
+**Languages**  
+Python · JavaScript · SQL · CSS
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/main/github-metrics.svg" alt="GitHub profile metrics" width="720">
-</p>
+**Web**  
+Next.js · Node.js · Tailwind CSS · jQuery
 
-### Contribution Rhythm
+**Data & AI**  
+MySQL · MongoDB · Oracle · PyTorch · TensorFlow · Keras
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/main/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="720">
-</p>
+**Tools**  
+Git · GitHub · Notion
 
-### Achievements
+## GitHub activity
 
-<table>
-  <tr>
-    <td width="50%">
-      <strong>Developer</strong><br>
-      <sub>19 public repositories, 17 original projects</sub>
-    </td>
-    <td width="50%">
-      <strong>Builder</strong><br>
-      <sub>JavaScript, Python, SQL, and modern web tooling</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Automator</strong><br>
-      <sub>GitHub Actions keeps this profile fresh</sub>
-    </td>
-    <td width="50%">
-      <strong>Explorer</strong><br>
-      <sub>Full-stack products, AI experiments, clean UX</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-### Contribution Flow
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=duckonthemic&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckonthemic&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duckonthemic/duckonthemic/output/snake.svg" alt="Contribution snake" width="720">
-</p>
+</div>
+
+### Contribution graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=duckonthemic&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph">
+
+</div>
 
 ---
 
-<p align="center">
-  <sub>Clean code, useful systems, steady progress.</sub>
-</p>
+<div align="center">
+
+*Building useful things, learning as I go.*
+
+</div>
+
+
